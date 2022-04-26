@@ -32,7 +32,7 @@ Rem ---------------------------------------------------------------
 Rem Fichier : ViderSpouleur.bat
 Rem Batch original trouve dans le Windows News No144 juin 2006.
 Rem ---------------------------------------------------------------
-Rem mvidement Sideris Ouest  7 03 2014
+Rem mvidement  7 03 2014
 Rem ---------------------------------------------------------------
 echo --------------------------------------------------------------
 echo Procedure d'arret du spouleur d'impression
